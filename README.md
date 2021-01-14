@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Name: Ravishankar Sivasubramaniam
+- 😄 Pronouns: he/him/his
+
 <!--
 **ravishan16/ravishan16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
