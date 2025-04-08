@@ -1,10 +1,13 @@
-### Hi there 👋
-
-- Name: Ravishankar Sivasubramaniam
-- 😄 Pronouns: he/him/his
 
 [![Twitter Badge](https://img.shields.io/badge/-@ravishankar_s-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ravishankar_s)](https://twitter.com/ravishankar_s) [![Instagram Badge](https://img.shields.io/badge/-@ravishankarsivasubramaniam-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/ravishankarsivasubramaniam)](https://instagram.com/ravishankarsivasubramaniam) [![Linkedin Badge](https://img.shields.io/badge/-ravishan16-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravishan16/)](https://www.linkedin.com/in/ravishan16/)
 ![GitHub followers](https://img.shields.io/github/followers/ravishan16?logo=github&style=flat-square) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/ravishan16?logo=reddit&style=flat-square) ![Keybase PGP](https://img.shields.io/keybase/pgp/ravishan?logo=keybase&logoColor=red&style=flat-square)
+
+
+<h3 align="left">👋 Hi, I’m Ravi</h3>
+<p align="left"> I’m a technologist and builder with over 20 years of experience architecting data systems, automating workflows, and shipping scalable software. I love turning ideas into real-world solutions—whether it’s a machine learning pipeline, a full-stack web app, or a weekend side project.
+
+I build with Python, ship with Flask and Docker, and move fast with cloud-native tools. You'll find me just as comfortable writing code as mentoring engineers or leading platform strategy. I'm hands-on, pragmatic, and always learning.
+</p>
 
 <h3 align="left">Languages ans Tools:</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-plain.svg" alt="R" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://wordpress.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   </p>
@@ -28,6 +31,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
